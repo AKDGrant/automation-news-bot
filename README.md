@@ -15,13 +15,13 @@ This project automatically fetches the latest tech headlines using an RSS feed a
 
 ### 1. Fetching Headlines and Model Setup
 This shows the code for fetching the RSS feed and setting up the AI model.  
-![News Bot Code](automation-news-bot/screenshots/News1.png)
+![News Bot Code](screenshots/News1.png)
 
 ---
 
 ### 2. Final Output
 This shows the summarized news report that gets saved into a `.txt` file.  
-![News Bot Output](automation-news-bot/screenshots/News2.png)
+![News Bot Output](screenshots/News2.png)
 
 ---
 
